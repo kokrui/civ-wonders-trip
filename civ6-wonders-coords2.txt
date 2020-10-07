@@ -46,4 +46,4 @@ Terracotta Army,34.2776155,108.9620085,FALSE
 University of Sankore,7.4490607,3.890005,FALSE
 Venetian Arsenal,45.4354304,12.3533364,FALSE
 
-FAIL: Estádio Maracanã, Huey Teocalli
+FAIL: Amundsen-Scott Research Station, Casa de Contratación, Estádio Maracanã, Huey Teocalli
